@@ -1,0 +1,7 @@
+# llama-cpp-python
+# gradio
+# PyPDF2
+llama-cpp-python
+gradio
+PyPDF2
+huggingface_hub
